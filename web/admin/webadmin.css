@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin:0;
+}
+/*-----------------login-admin-------------------*/
+
+.login form{
+    margin: 100px 0;
+}
+.login p
+{
+    font-weight: bold;
+   
+}
+.container
+{
+    max-width: 100%;
+}
+.login button
+{
+    margin: 10px 0;
+    width: 100px;
+}
+/*-----------------web-admin-------------------*/
+.web-menu p
+{
+    font-weight: bold;
+}
+
+.web-menu li
+{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+.web-menu li:hover
+{
+    color:blue
+}
+.web-menu
+{
+    width: 20%;
+    background-color:b;
+    
+}
+.web-content
+{
+    width: 80%;
+    background-color: #ccc;
+   
+}
+.web-content ,.web-menu
+{
+    margin: 20px 0;
+}
+.admin-index h1{
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 1px solid black;
+}   
+/*----------------them, sua, xoa san pham-------------------*/
+.rowl
+{
+   display: flex;
+}
+.nho
+{
+    width:200px;
+  
+}
+.to{
+    width:700px;
+}
+.web-content    p
+{
+    display: block;
+    width: 130px;
+}
+.web-content .rowl{
+    margin: 5px 0;
+}
+
+.web-content input
+{
+   height: 25px;
+}
+.web-content button
+{
+    width: 100px;
+    margin: 10px 30px;
+    align-items: center;
+    text-align: center;
+}
+/*----------------danh sach san pham-------------------*/
+.product-list 
+{
+  margin: 40px 0;
+}
+.product-list  a
+{
+  cursor: pointer;
+  
+}
+
+.product-list table
+{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+.product-list table th ,td
+{
+    border: 1px solid black;
+   
+}
+.product-list table th 
+{
+   padding: 0 20px;
+}
+/*----------------danh sách danh mục-------------------*/
+.cartegory-list
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.cartegory-list table tr th, td{
+    border: 1px solid #dddddd;
+}
+.cartegory-list table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
